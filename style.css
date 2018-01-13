@@ -1,5 +1,5 @@
 body {
-
+text-align: center;
 }
 
 .jumbotron {
@@ -8,6 +8,30 @@ body {
 
 button {
 
+}
+
+
+.container {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	border: solid black 2px;
+	padding: 20px 0;
+}
+
+
+.spectrum {
+}
+
+.articles {
+}
+
+.divider {
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+}
+
+.mb-3 {
+	display: inline;
 }
 
 .card-header1 {
