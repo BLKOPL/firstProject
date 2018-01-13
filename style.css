@@ -1,0 +1,47 @@
+body {
+text-align: center;
+}
+
+.jumbotron {
+
+}
+
+button {
+
+}
+
+
+.container {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	border: solid black 2px;
+	padding: 20px 0;
+}
+
+
+.spectrum {
+}
+
+.articles {
+}
+
+.divider {
+	border-left: solid black 2px;
+	border-right: solid black 2px;
+}
+
+.mb-3 {
+	display: inline;
+}
+
+.card-header1 {
+  border: blue 3px solid;
+}
+
+.card-header2 {
+border: black 3px solid;
+}
+
+.card-header3 {
+  border: red 3px solid;
+}
