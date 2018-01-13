@@ -3,13 +3,26 @@ text-align: center;
 }
 
 .jumbotron {
+background-color: white;
+width: 100%;
+text-align: center;
+margin: 10px auto;
+margin: 10px 10px 10px 10px;
+min-height: 100%;
+display: flex;
+justify-content: center;
 
 }
 
-button {
-
+.searchBar {
+  width: 70%;
 }
 
+.submit {
+  background: black;
+  border: solid black;
+
+}
 
 .container {
 	margin-bottom: 30px;
@@ -32,16 +45,4 @@ button {
 
 .mb-3 {
 	display: inline;
-}
-
-.card-header1 {
-  border: blue 3px solid;
-}
-
-.card-header2 {
-border: black 3px solid;
-}
-
-.card-header3 {
-  border: red 3px solid;
 }
