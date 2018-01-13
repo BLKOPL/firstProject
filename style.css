@@ -25,14 +25,22 @@ justify-content: center;
 }
 
 .container {
-	margin-bottom: 30px;
-	margin-top: 30px;
-	border: solid black 2px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	border: solid black 4px;
+	border-radius: 5px;
 	padding: 20px 0;
 }
 
+#keyword {
+	font-size: 7rem;
+	color: #33cc33;
+}
 
-.spectrum {
+
+.spectrum-pic {
+	height: 300px;
+	width: 1000px;
 }
 
 .articles {
