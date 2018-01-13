@@ -18,6 +18,11 @@ button {
 	padding: 20px 0;
 }
 
+#keyword {
+	font-size: 7rem;
+	color: #33cc33;
+}
+
 
 .spectrum {
 }
